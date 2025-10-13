@@ -9,8 +9,8 @@ A simple Python bot that automates the [Human Benchmark Reaction Time Test](http
 - Lightweight and beginner-friendly
 
 ## GUI Preview
+(/screenshot.png)
 
-The app includes a minimal GUI with:
 - Start and Stop buttons
 - Status indicator
 
