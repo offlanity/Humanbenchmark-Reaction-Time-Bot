@@ -9,7 +9,7 @@ A simple Python bot that automates the [Human Benchmark Reaction Time Test](http
 - Lightweight and beginner-friendly
 
 ## GUI Preview
-[(/screenshot.png)](https://github.com/offlanity/Humanbenchmark-Reaction-Time-Bot/blob/main/preview.png?raw=true)
+ ![Image Alt](https://github.com/offlanity/Humanbenchmark-Reaction-Time-Bot/blob/main/preview.png?raw=true)
 
 - Start and Stop buttons
 - Status indicator
