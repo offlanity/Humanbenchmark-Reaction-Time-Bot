@@ -18,3 +18,5 @@ A simple Python bot that automates the [Human Benchmark Reaction Time Test](http
 
 - Python 3.7+
 - `pyautogui`
+- `tkinter`
+
