@@ -1,7 +1,6 @@
 # Reaction Time Bot
 
-A simple Python bot that automates the [Human Benchmark Reaction Time Test](https://humanbenchmark.com/tests/reactiontime) using pixel detection and mouse automation. Built with a clean Tkinter GUI for easy control.
-
+A simple Python bot that automates the [Human Benchmark Reaction Time Test](https://humanbenchmark.com/tests/reactiontime) with a simple gui
 ## Features
 
 - Detects the green screen using pixel color
